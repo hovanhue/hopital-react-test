@@ -1,0 +1,12 @@
+.wrap {
+  justify-content: center;
+  text-align: center;
+  margin: 20px 30%;
+}
+
+.title {
+  margin: 40px 0;
+  text-transform: uppercase;
+  font-size: larger;
+  font-weight: bold;
+}
